@@ -1,0 +1,10 @@
+*.iml
+.idea/*
+.DS_Store
+.gitconfig
+target/*
+logs/*
+${*
+/target/
+/.classpath
+/.project
